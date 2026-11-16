@@ -1,0 +1,15 @@
+test_demo_arithmetic (test_employee_payroll_system.PayrollTests.test_demo_arithmetic) ... ok
+test_export_with_shell_metacharacters (test_employee_payroll_system.PayrollTests.test_export_with_shell_metacharacters) ... ok
+test_expressions_and_excess_deductions_rejected (test_employee_payroll_system.PayrollTests.test_expressions_and_excess_deductions_rejected) ... ok
+test_identifier_and_token_formats (test_employee_payroll_system.PayrollTests.test_identifier_and_token_formats) ... ok
+test_import_has_no_demo_side_effects (test_employee_payroll_system.PayrollTests.test_import_has_no_demo_side_effects) ... ok
+test_independent_transaction_logs (test_employee_payroll_system.PayrollTests.test_independent_transaction_logs) ... ok
+test_invalid_mutations_leave_records_unchanged (test_employee_payroll_system.PayrollTests.test_invalid_mutations_leave_records_unchanged) ... ok
+test_zero_salary_and_eligibility_boundary (test_employee_payroll_system.PayrollTests.test_zero_salary_and_eligibility_boundary) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.006s
+
+OK
+
+Exit code: 0

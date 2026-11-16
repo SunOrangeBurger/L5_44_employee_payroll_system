@@ -1,0 +1,7 @@
+$ python -m pylint --persistent=n employee_payroll_system.py
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+
+Exit code: 0

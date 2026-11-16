@@ -1,0 +1,8 @@
+$ python employee_payroll_system.py
+Is EMP101 eligible: True
+Net salary: 4122.5
+Employee Hash: c35853ed649ca20f0a3eca43ad5bdf3d0da6cd229e3df01075083fad9a8945e6
+Payroll Token: dea624849c3aa04ffb77055c1ad160625268777b662115ae0d1753b682cb7e75
+Payroll summary exported to: payroll_sheet.txt
+
+Exit code: 0

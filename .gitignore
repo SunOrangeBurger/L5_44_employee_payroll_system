@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+payroll_sheet.txt
+output/*.zip
